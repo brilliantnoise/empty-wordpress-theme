@@ -1,11 +1,9 @@
 /*
-Theme Name: Empty Wordpress Theme
-Template Theme URI: https://github.com/brilliantnoise/empty-wordpress-theme
+Theme Name: Brilliant Noise Empty Wordpress Theme
+Theme URI: https://github.com/brilliantnoise/empty-wordpress-theme
 Author: Brilliant Noise
-Description: Empty theme.
+Author URI: https://brilliantnoise.com/
+Description: Empty theme to hide everything on the public part of the WordPress website, with automatic redirect to the admin area.
 Version: 1.0
+License: Private
 */
-
-body {
-  background: #F00;
-}
