@@ -1,0 +1,2 @@
+# Empty Theme for WordPress
+

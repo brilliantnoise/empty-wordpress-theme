@@ -1,0 +1,11 @@
+/*
+Theme Name: Empty Wordpress Theme
+Template Theme URI: https://github.com/brilliantnoise/empty-wordpress-theme
+Author: Brilliant Noise
+Description: Empty theme.
+Version: 1.0
+*/
+
+body {
+  background: #F00;
+}
