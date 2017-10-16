@@ -51,9 +51,9 @@
       register_rest_route( 'playbook', '/menu', array(
         'methods' => 'GET',
         'callback' => 'get_menu'//,
-        // 'permission_callback' => function () {
-        //   return current_user_can( 'read' );
-        // }
+        'permission_callback' => function () {
+          return current_user_can( 'read' );
+        }
       )
     );
   });
