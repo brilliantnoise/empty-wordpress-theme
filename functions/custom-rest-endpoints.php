@@ -27,7 +27,7 @@
   }
 
   function get_menu() {
-    return tree_nav_menu('Side Menu');
+    return tree_nav_menu('Nested Pages');
   }
 
   add_action(
